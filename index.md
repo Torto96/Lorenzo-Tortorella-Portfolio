@@ -1,3 +1,1 @@
-# Lorenzo Tortorella
-
-*The force is strong with you*
+*the force is strong with you*
